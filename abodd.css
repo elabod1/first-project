@@ -1,0 +1,144 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth; 
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    background-attachment:fixed;
+}
+ .q{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    
+    text-decoration:overline;
+    word-spacing: 15px;
+    text-shadow: 2px 2px 3px rgb(103, 103, 103);
+    position: absolute;
+    top: 222px;
+    left: 85px;
+}
+.p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    
+    text-shadow: 2px 2px 3px rgb(103, 103, 103);
+    position: absolute;
+    top: 180px;
+    left: 80px;
+}
+.a{
+    
+    position: absolute;
+    top: 270px;
+    left: 100px;
+}
+.aa{
+    
+    position: absolute;
+    top: 270px;
+    left: 185px;
+}
+.aaa{
+   
+    position: absolute;
+    top: 270px;
+    left: 270px;
+    
+}
+.m{
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-size: 25px;
+   
+   
+    position: absolute;
+    top: 325px;
+    left: 120px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    position:relative;
+    bottom: 10px;
+    z-index: 999;
+    text-decoration: none;
+
+
+}
+a:hover{
+    color:darkgray;
+}
+a:active{
+    color: rgb(82, 9, 9);
+}
+.qq{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 380px;
+    left: 150px;
+}
+.qqq{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    
+    position: absolute;
+    top: 400px;
+    left: 172px;
+}
+.y{
+    font-size: 15px;
+    background-color: rgba(30, 18, 18, 0);
+    padding: 10px;
+    color: rgb(28, 21, 21);
+    position: fixed;
+    bottom: 10px;
+    z-index: 999;
+    left: 20px; 
+    border: solid 3px #302c2c ;
+    border-radius: 10px 10px 10px 10px;
+    margin: 1px;
+    text-decoration: none;
+
+}
+.yy{
+    font-size: 15px;
+    background-color: rgba(30, 18, 18, 0);
+    padding: 10px;
+    color: rgb(28, 21, 21);
+    position: fixed;
+    bottom: 10px;
+    z-index: 999;
+    left: 100px; 
+    border: solid 3px #302c2c ;
+    border-radius: 10px 10px 10px 10px;
+    margin: 1px;
+    text-decoration: none;
+
+}
+.yyy{
+    font-size: 15px;
+    background-color: rgba(30, 18, 18, 0);
+    padding: 10px;
+    color: rgb(28, 21, 21);
+    position: fixed;
+    bottom: 10px;
+    z-index: 999;
+    left: 172px; 
+    border: solid 3px #302c2c ;
+    border-radius: 10px 10px 10px 10px;
+    margin: 1px;
+    text-decoration: none;
+
+}
+@media screen and (min-width:601px) and (max-width:843px){
+    .card1{
+        padding: 10px;
+        flex-direction: column;
+        
+        align-items: center;
+    }
+    .card1_info {
+        margin: 20px;
+    }
+    .card1_info p{
+        padding: 20px;
+    }
+} 
